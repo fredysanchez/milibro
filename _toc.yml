@@ -1,0 +1,7 @@
+format: jb-book
+root: intro
+chapters:
+- file: index
+- file: nosotros
+- file: portafolio
+- file: contactos
